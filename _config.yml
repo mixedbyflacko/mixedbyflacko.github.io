@@ -1,11 +1,11 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: "M.B.F"
+email: "info@mixedbyflacko.com"
+description: > "Mixed By Flacko"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: "@mixedbyflacko"
 github_username:
 
 # Build settings
